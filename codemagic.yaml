@@ -11,7 +11,7 @@ workflows:
         - appstore-connect
       vars:
         IOS_BUNDLE_ID: com.honcharproj.app
-        APP_NAME: One More Draw
+        APP_NAME: Relics Runs Rush
 
     scripts:
       - name: Print working dir & contents
