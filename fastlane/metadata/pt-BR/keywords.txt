@@ -1,1 +1,1 @@
-jogo, inventário, organizar, mochila, herói, caminho, 3, comerciante
+jogos, roguelike, legado, caçador, goblin, inventário, sim

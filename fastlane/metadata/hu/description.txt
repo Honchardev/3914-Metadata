@@ -1,10 +1,10 @@
-A Forest Dungeon egy hangulatos, mégis feszült kaland, ahol az okos döntések fontosabbak a gyors reflexeknél. Magányos felfedezőként lépsz be egy izzó erdei kazamatába, kincseket gyűjtesz, kezeled a korlátozott teret, és eldöntöd, meddig feszíted a szerencsédet, mielőtt lejár az idő.
+Merülj el a kockázatok, jutalmak és okos döntések aranyló világában a Relics & Runs-ban, egy gyors tempójú, szervező jellegű roguelike játékban, ahol minden döntés számít. Egy merész kalandorként száguldsz át ősi helyszíneken, értékes ereklyéket szerzel, és megpróbálod mindet a hátizsákodba pakoltatni, mielőtt lejár az idő.
 
 
-Minden menet két fázisra oszlik. Először is számos tárgy közül választhatsz – válassz gondosan, mert minden tárgynak van értéke, formája és ritkasága. Aztán jön az igazi kihívás: mindent beilleszteni a hátizsákodba. Forgasd a tárgyakat, tervezz a fix helyek köré, és hozz nehéz döntéseket, ha elfogy a hely. Ha elfér, a tiéd. Ha nem, akkor itt marad.
+Minden menet két feszült fázisra oszlik. Először korlátozott ajánlatokból választasz tárgyakat, mérlegelve a ritkaságot, az értéket és a helyet. Ezután jön az igazi kihívás: mindent belepakolni a rácsos hátizsákodba. Forgasd a tárgyakat, tervezz előre, és döntsd el, mit érdemes megtartani – mert ami nem fér bele, az ott marad. Időben nyomd meg a Menekülés gombot, és pénzt kapsz. Ha elszalasztod, mindent elveszítesz.
 
 
-Egy menet megnyerésével érméket szerezhetsz, amelyeket állandó fejlesztésekre költhetsz. Bővítsd a készletedet új rácsdarabokkal, oldj fel hatékony képességeket, mint például az újradobások vagy a zárak, és növeld az esélyeidet a ritka zsákmány megtalálására. Minden fejlesztés megváltoztatja a jövőbeli menetek hangulatát, új stratégiákat és játékstílusokat nyitva meg.
+Szerezz érméket a sikeres menetekből, és fektesd be őket állandó fejlesztésekbe. Bővítsd a készletedet új formákkal és helyekkel, oldj fel olyan hatékony képességeket, mint az újratekerés, a zárolás és a száműzés, vagy növeld a szerencsédet, hogy ritkább zsákmányt találj. A napi bónuszok, az eredmények és a több környezet minden menetet frissé és kiszámíthatatlanná tesz.
 
 
-Élénk fantasy látványvilággal, rövid játékmenettel és kielégítő kockázat-jutalom ciklussal a Forest Dungeon tökéletes a gyors szünetekhez vagy a hosszú stratégiai foglalkozásokhoz. Merülj el, pakolj okosan, és nézd meg, mennyi kincset tudsz visszavinni, mielőtt a kazamata visszavonul.
+Könnyen tanulható, de mélyen stratégiai jellegű, a Relics & Runs kielégítő készletrejtvényeket ötvöz a roguelike fejlődéssel. Pakolj okosan, válts bölcsen, és nézd meg, meddig juthatsz el a következő futásoddal.
